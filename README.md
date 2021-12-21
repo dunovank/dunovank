@@ -1,6 +1,6 @@
 ### dunovank 🐻
 
-Community college dropout & Former postdoc @CarnegieMellon. Creator of jupyter-themes. Spirit animal: Toby Ziegler. My interests fall into a few different buckets: computational psychology and neuroscience (focus of my PhD), natural language processing and machine learning (what I work on now), and tinkering with UI themes (afterhours hobby). 
+Community college dropout & former postdoc @CarnegieMellon. Creator of jupyter-themes. Spirit animal: Toby Ziegler. My interests fall into a few different buckets: computational psychology and neuroscience (focus of my PhD), natural language processing and machine learning (what I work on now), and tinkering with UI themes (afterhours hobby). 
 
 [![Dunovank's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunovank)](https://github.com/dunovank)
 
