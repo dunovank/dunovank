@@ -1,6 +1,10 @@
 ### dunovank 🐻
 
-Community college dropout & former postdoc @CarnegieMellon. Creator of [**Jupyter-Themes**](https://github.com/dunovank/jupyter-themes) (and some less popular JupyterLab themes: [**Legos**](https://github.com/dunovank/jupyterlab_legos_ui) & [**Darkside**](https://github.com/dunovank/jupyterlab_darkside_ui)). Spirit animal: [**Toby Ziegler**](https://westwing.fandom.com/wiki/Toby_Ziegler). My interests fall into a few different buckets: [**cognitive**](https://www.jneurosci.org/content/39/12/2251.abstract) and [**compuational neuroscience**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006998) (focus of my [**PhD**](http://d-scholarship.pitt.edu/30628/)), natural language processing and machine learning (what I work on now), and tinkering with UI themes (afterhours hobby). 
+My interests fall into a few different buckets: [**cognitive**](https://www.jneurosci.org/content/39/12/2251.abstract) and [**compuational neuroscience**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006998) (focus of my [**PhD**](http://d-scholarship.pitt.edu/30628/)), NLP and deep representation learning (what I work on now), and tinkering with UI themes (afterhours hobby). 
+
+One manifestation of said UI tinkering is the [**Jupyter-Themes**](https://github.com/dunovank/jupyter-themes) library for controlling the Jupyter Notebook's UI and syntax highlighting (see [**Legos**](https://github.com/dunovank/jupyterlab_legos_ui) & [**Darkside**](https://github.com/dunovank/jupyterlab_darkside_ui) for similar themes in Jupyter*Lab*).
+
+Spirit animal: [**Toby Ziegler**](https://westwing.fandom.com/wiki/Toby_Ziegler)
 
 [![Dunovank's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunovank)](https://github.com/dunovank)
 
