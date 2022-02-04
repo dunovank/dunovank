@@ -6,7 +6,7 @@ One manifestation of said UI tinkering is the [**Jupyter-Themes**](https://githu
 
 Spirit animal: [**Toby Ziegler**](https://westwing.fandom.com/wiki/Toby_Ziegler)
 
-[![Dunovank's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunovank)](https://github.com/dunovank)
+<!-- [![Dunovank's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunovank)](https://github.com/dunovank) -->
 
 [**Scholar**](https://scholar.google.com/citations?user=o-MJbsUAAAAJ&hl=en) **|**
 [**LinkedIn**](https://www.linkedin.com/in/dunovank/) **|**
