@@ -1,8 +1,8 @@
 ### dunovank
 
-My interests fall into a few different buckets: [**cognitive**](https://www.jneurosci.org/content/39/12/2251.abstract) and [**compuational neuroscience**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006998) (focus of my [**PhD**](http://d-scholarship.pitt.edu/30628/)), NLP and deep representation learning (what I work on now), and tinkering with UI themes (afterhours hobby). 
+Did my [**PhD**](http://d-scholarship.pitt.edu/30628/) in [**cognitive**](https://www.jneurosci.org/content/39/12/2251.abstract) and [**compuational neuroscience**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006998). Currently working on NLP, deep representation learning. Do some UI tinkering in my free time. 
 
-One manifestation of said UI tinkering is the [**Jupyter-Themes**](https://github.com/dunovank/jupyter-themes) library for controlling the Jupyter Notebook's UI and syntax highlighting. More recently I've started working on similar themes for JupyterLab (successor to the classic Jupyter Notebook): [**JupyterLab Darkside Theme**](https://github.com/dunovank/jupyterlab_darkside_theme).
+Built [**Jupyter-Themes**](https://github.com/dunovank/jupyter-themes) library for controlling the Jupyter Notebook's UI and syntax highlighting. For similar themes in JupyterLab, checkout the [**JupyterLab Darkside Theme**](https://github.com/dunovank/jupyterlab_darkside_theme) repo.
 
 <!--
 Spirit animal: [**Toby Ziegler**](https://westwing.fandom.com/wiki/Toby_Ziegler)
