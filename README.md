@@ -1,6 +1,6 @@
 ### dunovank
 
-Working on LLMs, Agents, and deep representation learning. Did my [**PhD**](http://d-scholarship.pitt.edu/30628/) in [**cognitive**](https://www.jneurosci.org/content/39/12/2251.abstract) and [**compuational neuroscience**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006998). Do some UI tinkering in my free time: [**Jupyter-Themes**](https://github.com/dunovank/jupyter-themes) & [**JupyterLab Darkside Theme**](https://github.com/dunovank/jupyterlab_darkside_theme) repo.
+Working on LLMs, Agents, and deep representation learning. Did my [**PhD**](http://d-scholarship.pitt.edu/30628/) in [**cognitive**](https://www.jneurosci.org/content/39/12/2251.abstract) and [**compuational neuroscience**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006998). Do some UI tinkering in my free time: [**Jupyter-Themes**](https://github.com/dunovank/jupyter-themes) & [**JupyterLab Darkside Theme**](https://github.com/dunovank/jupyterlab_darkside_theme).
 
 <!--
 Spirit animal: [**Toby Ziegler**](https://westwing.fandom.com/wiki/Toby_Ziegler)
